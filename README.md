@@ -16,9 +16,7 @@ To enable the Omni Meet API in your application you must use the following JavaS
 
 The iframe API works on mobile browsers the same way as it does on desktop browsers.
 
-:::warning
 Currently we are working on better support for Chrome for iOS, expect issues.
-:::
 
 ### Opening meetings in the Omni Meet app
 
